@@ -1,2 +1,2 @@
 # image-with-update-glibc
-woth multistage buiild
+This is an example to upgrade the glibc in a container to avoid older version vulnerabilities..
